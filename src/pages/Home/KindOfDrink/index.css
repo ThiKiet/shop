@@ -1,0 +1,19 @@
+.kind-of-drink {
+  margin-top: 30px;
+}
+
+.kod-content {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  text-align: center;
+}
+
+.kod-image {
+  max-width: fit-content;
+  padding: 0px;
+}
+
+.main-title {
+  text-align: center;
+}

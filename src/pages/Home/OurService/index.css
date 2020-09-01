@@ -1,0 +1,25 @@
+/* Style for service */
+.our-service {
+  margin-top: 30px;
+}
+
+.service-content {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.service-item {
+  padding: 0px;
+}
+
+.row-custom {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.main-title {
+  text-align: center;
+}

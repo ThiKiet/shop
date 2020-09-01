@@ -1,0 +1,28 @@
+.shop-time .shop-time-item {
+  border: none;
+  background-color: #1a231f;
+  display: flex;
+  padding: 5px 0;
+}
+
+.shop-time {
+  max-width: 40em;
+  padding: 0;
+  overflow-x: hidden;
+  list-style: none;
+}
+
+.shop-time-item-day::after {
+  position: absolute;
+  z-index: 1;
+  content: "........................................"
+    "..............................................."
+    "...............................................";
+}
+
+.shop-time-item-times {
+  position: absolute;
+  z-index: 2;
+  right: 0;
+  background-color: #1a231f;
+}

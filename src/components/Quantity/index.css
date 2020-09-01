@@ -1,0 +1,20 @@
+.quantity {
+  width: 68px;
+}
+
+.quantity-item {
+  height: 26px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.result {
+  width: 28px;
+  border: 1px solid #28a745;
+}
+
+.btn-sm {
+  width: 22px;
+  height: 26px;
+}

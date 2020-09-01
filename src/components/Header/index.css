@@ -1,0 +1,31 @@
+.basket-number {
+  color: #10b46a;
+  position: absolute;
+  top: 5px;
+  font-size: 20px;
+}
+
+.nav-menu {
+  justify-content: flex-end;
+}
+
+.element-menu {
+  color: #10b46a;
+  margin-left: 15px;
+  margin-top: 10px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.element-menu:hover {
+  text-decoration-line: none;
+  color: #086d3f;
+}
+
+.user-option {
+  background-color: transparent;
+  border: none;
+}

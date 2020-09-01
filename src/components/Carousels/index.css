@@ -1,0 +1,21 @@
+.carousel-container {
+  max-height: 372px;
+}
+
+.carousel-caption-custom {
+  flex-direction: column;
+  top: 30%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.carousel-caption-custom p {
+  font-weight: 300;
+}
+
+.carousel-indicators {
+  display: none;
+}

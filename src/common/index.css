@@ -1,0 +1,43 @@
+* {
+  font-family: "Poppins";
+  font-style: normal;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  justify-content: center;
+  text-align: center;
+}
+
+.description {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: justify;
+}
+
+.center-title {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  color: #000;
+  text-align: center;
+}
+
+.normal-title {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  color: #1a231f;
+}
+
+.image-custom {
+  width: 100%;
+}
+
+/* Style Container */
+
+.container-custom {
+  padding: 0px;
+}

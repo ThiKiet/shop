@@ -1,0 +1,19 @@
+/* service item is used to contain service-image, service-title and service-description  */
+.service-item {
+  width: 310px;
+  text-align: justify;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.service-image {
+  width: 50px;
+  height: 50px;
+}
+
+.service-title {
+  font-size: 20px;
+  text-align: center;
+}

@@ -1,0 +1,22 @@
+/* Cart is used to contain all item: cart-image, cart-name, cart-quantity, cart-price, cart-delete */
+.cart {
+  width: 400px;
+  height: auto;
+  align-items: center;
+}
+
+.cart-image > .image {
+  width: 70px;
+  height: 100px;
+}
+
+.cart-name,
+.cart-quantity,
+.cart-price,
+.cart-delete {
+  font-size: 14px;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}

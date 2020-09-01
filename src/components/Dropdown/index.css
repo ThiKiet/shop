@@ -1,0 +1,26 @@
+.sort-dropdown {
+  width: 100%;
+}
+
+.sort-dropdown .sort-dropdown-toggle {
+  width: 100%;
+  background-color: #fff;
+  color: #28a745;
+  padding: 10px 20px;
+  position: relative;
+}
+
+.sort-dropdown .sort-dropdown-toggle::after {
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+}
+
+.sort-dropdown .sort-dropdown-menu {
+  width: 100%;
+}
+
+.toggle-text {
+  float: left;
+}

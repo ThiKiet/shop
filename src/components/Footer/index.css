@@ -1,0 +1,28 @@
+.footer-container-fluid {
+  margin-top: 20px;
+}
+
+.footer-container-fluid, .footer-container {
+  background-color: #1a231f;
+  color: #fff;
+}
+
+.footer-content {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.description-wrapper {
+  margin-bottom: 20px;
+}
+
+.description-wrapper .description {
+  margin: 0;
+  text-align: justify;
+}
+
+.copy-right {
+  text-align: center;
+  color: #1a231f;
+  background-color: #fff;
+}
